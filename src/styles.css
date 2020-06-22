@@ -1,2 +1,6 @@
-@import url("../node_modules/leaflet/dist/leaflet.css");
+@import "../node_modules/leaflet/dist/leaflet.css";
 @import url("../node_modules/reset-css/reset.css");
+
+.ng5-slider .ng5-slider-pointer{
+    background-color: red
+}

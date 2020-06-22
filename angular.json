@@ -144,6 +144,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "leafletSetUp"
+    }
+  },
+  "defaultProject": "leafletSetUp",
+  "cli": {
+    "analytics": false
+  }
 }
